@@ -52,12 +52,6 @@ NPM install :
 npm install editor.md
 ```
 
-Bower install :
-
-```bash
-bower install editor.md
-```
-
 #### Usages
 
 ##### Create a Markdown editor
